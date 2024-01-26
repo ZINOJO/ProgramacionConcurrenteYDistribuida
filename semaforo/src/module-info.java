@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author angel
+ *
+ */
+module semaforo {
+}
